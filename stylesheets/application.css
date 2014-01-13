@@ -664,11 +664,7 @@ img.gravatar {
 
 .wiki img {
 	max-width: 100%;
-}  
-
-.wiki table img {
-	width: 100%;
-}  
+}
 
 div.wiki pre, .wiki pre {
 	padding: 6px 10px;
