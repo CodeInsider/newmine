@@ -137,7 +137,6 @@ div#main.nosidebar div#content {
 }
 
 div#content > h2, 
-div#content h2.contacts_header, 
 div#content > div.filters h2, 
 div#content > #add-news > h2, 
 div#content > #add-message > h2 , 
@@ -148,7 +147,7 @@ div#content > #add-document > h2 {
 	color: #222;
     letter-spacing: -1px;
     margin: 0 -10px;
-    padding: 2px 20px;	
+    padding: 2px 0 2px 20px;	
 }
 .controller-boards.action-index #add-message {
 	position: static;
@@ -660,6 +659,10 @@ img.gravatar {
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
+}
+
+.thumbnails{
+    padding: 0 20px;
 }
 
 .wiki img {
