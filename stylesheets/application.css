@@ -855,7 +855,7 @@ body.action-login #login-form table {
 #rating-container .rating-title{
     color: #666;
 }
-#sidebar #taglist li a {
+#sidebar #taglist a {
     padding: 2px;
     border-radius: 0;
     background-color: #f3f3f3;
