@@ -142,11 +142,12 @@ div#content > #add-news > h2,
 div#content > #add-message > h2 , 
 div#content > #add-document > h2 {
 	background: #F8F8F8;
-	border-bottom:1px solid #CCC;
+    border-top: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
 	letter-spacing: -1px;
 	color: #222;
     letter-spacing: -1px;
-    margin: 0 -10px;
+    margin: -1px -10px 0px;
     padding: 2px 0 2px 5px;	
 }
 .controller-boards.action-index #add-message {
@@ -850,7 +851,23 @@ body.action-login #login-form table {
 	font-weight: bold;
 }
 
-/*Contacts*/
+/* Knowledgebase */
+#rating-container .rating-title{
+    color: #666;
+}
+#sidebar #taglist li a {
+    padding: 2px;
+    border-radius: 0;
+    background-color: #f3f3f3;
+    border-color: #ccc;
+    color: #2980b9;
+}
+ 
+#sidebar #taglist li {
+    margin: 10px 8px;
+}
+
+/* Contacts */
 
 div.filters .live_search {
 	margin-left: 11px !important;
