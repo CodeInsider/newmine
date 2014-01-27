@@ -855,7 +855,7 @@ body.action-login #login-form table {
 #sidebar .rating-title{
     color: #666;
 }
-#sidebar #taglist .tag{
+#sidebar #taglist > .tag{
     line-height: 2;   
 }
 #sidebar #taglist a {
