@@ -852,8 +852,11 @@ body.action-login #login-form table {
 }
 
 /* Knowledgebase */
-#rating-container .rating-title{
+#sidebar .rating-title{
     color: #666;
+}
+#sidebar #taglist .tag{
+    line-height: 2;   
 }
 #sidebar #taglist a {
     padding: 2px;
