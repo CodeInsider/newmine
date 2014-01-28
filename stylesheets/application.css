@@ -1,5 +1,10 @@
 @import url(../../../stylesheets/application.css);
 
+form{
+	display: block;
+	overflow: auto;
+}
+
 #header {
 	height:auto;
     min-height:53px;
