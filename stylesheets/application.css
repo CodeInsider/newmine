@@ -4,6 +4,9 @@ form{
 	display: block;
 	overflow: auto;
 }
+.contextual form{
+    display: inline;
+}
 
 #header {
 	height:auto;
