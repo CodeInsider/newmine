@@ -128,9 +128,6 @@ div#content.collapsed {
 	padding:0 10px 0 0;
 	width:48%;
 }
-.splitcontentleft table.list, .splitcontentright table.list{
-    width: 100%;
-}
 .splitcontentleft table.list a, .splitcontentright table.list a{
     white-space: normal;
 }
